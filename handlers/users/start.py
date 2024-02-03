@@ -127,7 +127,7 @@ async def sa (message: types.Message):
 
 @dp.message_handler(text ="Kanalga elon berish")
 async def cilik3(message: types.Message):
-    await message.reply("https://t.me/Ucell_Humas_Tekin_Internet",reply_markup=kam)
+    await message.reply("https://t.me/+qyg3nf2aDUEwNTli",reply_markup=kam)
 
 
 
